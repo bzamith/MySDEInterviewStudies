@@ -25,6 +25,11 @@
 - [x] [13. Find the Lowest Common Ancestor in a Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/13.lca.py)
 - [x] [14. Find the Maximum Sum Sub Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/14.maxSumSubArray.py)
 - [x] [15. Find the Longest Consecutive Char](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/15.longestConsecutiveChar.py)
+- [x] [16. Reverse Array in-place](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/16.reverseArrayInPlace.py)
+- [x] [17. Find Circle in Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/17.findCircleArray.py)
+- [x] [18. Universal Value Tree Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/18.universalValueTree.py)
+- [x] [19. Validate Parenthesis in a String](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/19.validateParenthesis.py)
+- [x] [20. Fibonacci](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/20.fibonacci.py)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
@@ -34,14 +39,9 @@
 - [ ] Find Sets of Numbers that Add Up To X
 - [ ] Recursive Staircase Problem
 - [ ] Count the Number of Ways to Decode a Message
-- [ ] Universal Value Tree Problem
 - [ ] Overlapping Rectangles
 - [ ] Implement a Queue with a Stack
 - [ ] K Most Frequent Elements
-- [ ] Fibonacci
-- [ ] Reverse Array in-place
-- [ ] Find Circle in Array
-- [ ] Validate Parenthesis in a String
 - [ ] Find the Intersection Between Arrays
 - [ ] Largest Square of 1's in a Matrix
 - [ ] Largest Rectangle in a Histogram
