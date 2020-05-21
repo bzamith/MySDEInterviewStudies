@@ -1,2 +1,61 @@
-# CodingInterviewQuestions
-Studies for SDE coding interviews
+## Coding Interview Questions
+
+### Sources
+- [11 Essential Coding Interview Questions - Online Course](https://www.udemy.com/course/11-essential-coding-interview-questions/)
+- [CS Dojo - Youtube Channel](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/videos)
+- [Irfan Baqui - Youtube Channel](https://www.youtube.com/channel/UCYvQTh9aUgPZmVH0wNHFa1A/videos)
+- [Grokking the Object Oriented Design Interview - Online Course](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
+- [Leetcode Problems - Online Coding Platform](https://leetcode.com/problemset/all/?difficulty=Easy)
+- [InterviewBit Problems - Online Coding Platform](https://www.interviewbit.com/practice/)
+- [Cracking The Coding Interview - Book](https://www.amazon.com.br/dp/0984782850/)
+
+### Most Common Questions
+- [x] [01. Find 2 Integers in the Array that Multiply to a Given Number](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/01.findIntegersMultiply.py)
+- [x] [02. Find 2 Integers in the Array that Multiply to a Given Number](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/02.find3IntegersMultiply.py)
+- [x] [03. Find the Most Frequent Element in the Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/03.mostFrequentElement.py)
+- [x] [04. Find the Common Elements Between Two Sorted Arrays](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/04.commonElements.py)
+- [x] [05. Check if One Array is a Rotation of the Another](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/05.isRotation.py)
+- [x] [06. Find the Non-Repeating Char](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/06.nonRepeatingChar.py)
+- [x] [07. Check if a String is One Change Away from Another](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/07.isOneAwayStrings.py)
+- [x] [08. Mine Sweeper Game Part 1](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/08.mineSweeper.py)
+- [x] [09. Mine Sweeper Game Part 2](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/09.clickMineSweeper.py)
+- [x] [10. Rotate a Matrix 90 Degrees](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/10.rotateMatrix90.py)
+- [x] [11. Find the nth Element from End in a Linked List](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/11.nthFromEndLinkedList.py)
+- [x] [12. Find if a Binary Tree is BST](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/12.isBST.py)
+- [x] [13. Find the Lowest Common Ancestor in a Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/13.lca.py)
+- [x] [14. Find the Maximum Sum Sub Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/14.maxSumSubArray.py)
+- [x] [15. Find the Longest Consecutive Char](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/15.longestConsecutiveChar.py)
+- [ ] Find the Longest Common Subsequence
+- [ ] Knapsack Problem
+- [ ] Count Negative Integers in Matrix
+- [ ] Tower Hopper Problem
+- [ ] Find All Subsets of a Ser
+- [ ] K-Closest Points to Origin
+- [ ] Find Sets of Numbers that Add Up To X
+- [ ] Recursive Staircase Problem
+- [ ] Count the Number of Ways to Decode a Message
+- [ ] Universal Value Tree Problem
+- [ ] Overlapping Rectangles
+- [ ] Implement a Queue with a Stack
+- [ ] K Most Frequent Elements
+- [ ] Fibonacci
+- [ ] Reverse Array in-place
+- [ ] Find Circle in Array
+- [ ] Validate Parenthesis in a String
+- [ ] Find the Intersection Between Arrays
+- [ ] Largest Square of 1's in a Matrix
+- [ ] Largest Rectangle in a Histogram
+- [ ] N-Queens
+- [ ] Reverse Integer
+- [ ] Palindrome Number
+- [ ] Merge Two Sorted Lists
+- [ ] Remove Duplicates from Sorted Array
+- [ ] Implement strStr()
+- [ ] Climbing Stairs
+- [ ] Maximum Depth Binary Tree
+- [ ] Employees Earning More
+- [ ] Duplicate Emails
+- [ ] Rotate Array
+- [ ] Diameter of Binary Tree
+- [ ] Overlapping Periods
+- [ ] Set Matrix Zeros
