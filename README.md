@@ -24,7 +24,7 @@
 - [x] [11. Find the nth Element from End in a Linked List](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/11.nthFromEndLinkedList.py)
 - [x] [12. Find if a Binary Tree is BST](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/12.isBST.py)
 - [x] [13. Find the Lowest Common Ancestor in a Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/13.lca.py)
-- [x] [14. Find the Maximum Sum Sub Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/14.maxSumSubArray.py)
+- [x] [14. Find the Maximum Sub Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/14.maxSumSubArray.py)
 - [x] [15. Find the Longest Consecutive Char](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/15.longestConsecutiveChar.py)
 - [x] [16. Reverse Array in-place](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/16.reverseArrayInPlace.py)
 - [x] [17. Find Circle in Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/17.findCircleArray.py)
@@ -75,3 +75,10 @@
 - [ ] Restore Ip Address
 - [ ] Serialize and Deserialize Binary Tree
 - [ ] Course Schedule
+- [ ] Longest Palindromic Substring
+- [ ] String to Integer (atoi)
+- [ ] Valid Sudoku
+- [ ] Combination Sum
+- [ ] Minimum Path Sum
+- [ ] Best Time to Buy and Sell Stock
+- [ ] Word Ladder
