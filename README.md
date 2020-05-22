@@ -32,7 +32,7 @@
 - [x] [20. Fibonacci](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/20.fibonacci.py)
 - [x] [21. K Most Frequent Elements](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/21.kMostFrequentElements.py)
 - [x] [22. Overlapping Rectangles](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/22.rectangleOverlap.py)
-- [x] [23. Find All Subsets of a Set](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/ 	23.subsetsOfSet.py)
+- [x] [23. Find All Subsets of a Set](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/23.subsetsOfSet.py)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
