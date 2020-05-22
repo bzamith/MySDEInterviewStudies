@@ -54,7 +54,7 @@
 - [ ] Largest Rectangle in a Histogram
 - [ ] Reverse Integer
 - [ ] Merge Two Sorted Lists
-- [ ] Implement strStr()
+- [ ] Pattern Matching
 - [ ] Maximum Depth Binary Tree
 - [ ] Rotate Array
 - [ ] Set Matrix Zeros
@@ -82,3 +82,17 @@
 - [ ] Minimum Path Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Word Ladder
+- [ ] Word Frequencies
+- [ ] Living People
+- [ ] Missing Number
+- [ ] Letters and Numbers
+- [ ] Count of 2s
+- [ ] Baby Names
+- [ ] Majority Element
+- [ ] Word Distance
+- [ ] Re-Space
+- [ ] Smallest K
+- [ ] Shortest Supersequence
+- [ ] Missing Two
+- [ ] Continuous Median
+- [ ] Word Transformer
