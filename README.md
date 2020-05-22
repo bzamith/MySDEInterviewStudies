@@ -39,14 +39,15 @@
 - [x] [26. Diameter of Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/26.diameterBinaryTree.py)
 - [x] [27. N Queens](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/27.nQueens.py)
 - [x] [28. Non-overlapping Intervals](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/28.intervalScheduling.py)
+- [x] [29. Phone Number Mnemonics](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/29.phoneNumberMnemonics.py)
+- [x] [30. Count the Number of Ways to Decode a Message ](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/30.waysDecode.py)
+- [x] [31. Recursive Staircase Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/31.staircaseProblem.py)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
 - [ ] Tower Hopper Problem
 - [ ] K-Closest Points to Origin
 - [ ] Find Sets of Numbers that Add Up To X
-- [ ] Recursive Staircase Problem
-- [ ] Count the Number of Ways to Decode a Message 
 - [ ] Implement a Queue with a Stack
 - [ ] Find the Intersection Between Arrays
 - [ ] Largest Square of 1's in a Matrix
