@@ -4,6 +4,7 @@
 - [11 Essential Coding Interview Questions - Online Course](https://www.udemy.com/course/11-essential-coding-interview-questions/)
 - [CS Dojo - Youtube Channel](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/videos)
 - [Irfan Baqui - Youtube Channel](https://www.youtube.com/channel/UCYvQTh9aUgPZmVH0wNHFa1A/videos)
+- [Back To Back SWE - Youtube Channel](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA/videos)
 - [Grokking the Object Oriented Design Interview - Online Course](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
 - [Leetcode Problems - Online Coding Platform](https://leetcode.com/problemset/all/?difficulty=Easy)
 - [InterviewBit Problems - Online Coding Platform](https://www.interviewbit.com/practice/)
@@ -36,6 +37,8 @@
 - [x] [24. Palindrome Number](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/24.palindromeNumber.py)
 - [x] [25. Remove Duplicates from Sorted Array in-place](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/25.removeDuplicates.py)
 - [x] [26. Diameter of Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/26.diameterBinaryTree.py)
+- [x] [27. N Queens](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/27.nQueens.py)
+- [x] [28. Non-overlapping Intervals](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/28.intervalScheduling.py)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
@@ -48,7 +51,6 @@
 - [ ] Find the Intersection Between Arrays
 - [ ] Largest Square of 1's in a Matrix
 - [ ] Largest Rectangle in a Histogram
-- [ ] N-Queens
 - [ ] Reverse Integer
 - [ ] Merge Two Sorted Lists
 - [ ] Implement strStr()
@@ -57,5 +59,4 @@
 - [ ] Employees Earning More
 - [ ] Duplicate Emails
 - [ ] Rotate Array
-- [ ] Overlapping Periods
 - [ ] Set Matrix Zeros
