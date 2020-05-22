@@ -55,9 +55,23 @@
 - [ ] Reverse Integer
 - [ ] Merge Two Sorted Lists
 - [ ] Implement strStr()
-- [ ] Climbing Stairs
 - [ ] Maximum Depth Binary Tree
-- [ ] Employees Earning More
-- [ ] Duplicate Emails
 - [ ] Rotate Array
 - [ ] Set Matrix Zeros
+- [ ] K Largest Elements in Array
+- [ ] Integer to English Words
+- [ ] Count Island Problem
+- [ ] Product of Array Except Self
+- [ ] Rotting Oranges
+- [ ] Search Suggestions System
+- [ ] Copy List with Random Pointer
+- [ ] Critical Routers
+- [ ] Median of Two Sorted Arrays
+- [ ] LRU Cache
+- [ ] Min Stack
+- [ ] Design Tic-Tac-Toe
+- [ ] Pacific Atlantic Water Flow
+- [ ] Reorganize String
+- [ ] Restore Ip Address
+- [ ] Serialize and Deserialize Binary Tree
+- [ ] Course Schedule
