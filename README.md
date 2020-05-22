@@ -30,18 +30,18 @@
 - [x] [18. Universal Value Tree Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/18.universalValueTree.py)
 - [x] [19. Validate Parenthesis in a String](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/19.validateParenthesis.py)
 - [x] [20. Fibonacci](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/20.fibonacci.py)
+- [x] [21. K Most Frequent Elements](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/21.kMostFrequentElements.py)
+- [x] [22. Overlapping Rectangles](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/22.rectangleOverlap.py)
+- [x] [23. Find All Subsets of a Set](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/ 	23.subsetsOfSet.py)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
 - [ ] Tower Hopper Problem
-- [ ] Find All Subsets of a Ser
 - [ ] K-Closest Points to Origin
 - [ ] Find Sets of Numbers that Add Up To X
 - [ ] Recursive Staircase Problem
-- [ ] Count the Number of Ways to Decode a Message
-- [ ] Overlapping Rectangles
+- [ ] Count the Number of Ways to Decode a Message 
 - [ ] Implement a Queue with a Stack
-- [ ] K Most Frequent Elements
 - [ ] Find the Intersection Between Arrays
 - [ ] Largest Square of 1's in a Matrix
 - [ ] Largest Rectangle in a Histogram
