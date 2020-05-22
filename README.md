@@ -33,6 +33,9 @@
 - [x] [21. K Most Frequent Elements](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/21.kMostFrequentElements.py)
 - [x] [22. Overlapping Rectangles](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/22.rectangleOverlap.py)
 - [x] [23. Find All Subsets of a Set](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/23.subsetsOfSet.py)
+- [x] [24. Palindrome Number](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/24.palindromeNumber.py)
+- [x] [25. Remove Duplicates from Sorted Array in-place](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/25.removeDuplicates.py)
+- [x] [26. Diameter of Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/26.diameterBinaryTree.py)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
@@ -47,15 +50,12 @@
 - [ ] Largest Rectangle in a Histogram
 - [ ] N-Queens
 - [ ] Reverse Integer
-- [ ] Palindrome Number
 - [ ] Merge Two Sorted Lists
-- [ ] Remove Duplicates from Sorted Array
 - [ ] Implement strStr()
 - [ ] Climbing Stairs
 - [ ] Maximum Depth Binary Tree
 - [ ] Employees Earning More
 - [ ] Duplicate Emails
 - [ ] Rotate Array
-- [ ] Diameter of Binary Tree
 - [ ] Overlapping Periods
 - [ ] Set Matrix Zeros
