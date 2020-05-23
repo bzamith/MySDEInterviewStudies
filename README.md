@@ -11,7 +11,7 @@
 - [Cracking The Coding Interview - Book](https://www.amazon.com.br/dp/0984782850/)
 
 ### Most Common Questions
-- [x] [01. Find 2 Integers in the Array that Multiply to a Given Number](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/01.findIntegersMultiply.py)
+- [x] [01. Find 2 Integers in the Array that Multiply to a Given Number *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/01.findIntegersMultiply.py)
 - [x] [02. Find 2 Integers in the Array that Multiply to a Given Number](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/02.find3IntegersMultiply.py)
 - [x] [03. Find the Most Frequent Element in the Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/03.mostFrequentElement.py)
 - [x] [04. Find the Common Elements Between Two Sorted Arrays](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/04.commonElements.py)
@@ -39,7 +39,7 @@
 - [x] [26. Diameter of Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/26.diameterBinaryTree.py)
 - [x] [27. N Queens](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/27.nQueens.py)
 - [x] [28. Non-overlapping Intervals](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/28.intervalScheduling.py)
-- [x] [29. Phone Number Mnemonics](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/29.phoneNumberMnemonics.py)
+- [x] [29. Phone Number Mnemonics *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/29.phoneNumberMnemonics.py)
 - [x] [30. Count the Number of Ways to Decode a Message ](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/30.waysDecode.py)
 - [x] [31. Recursive Staircase Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/31.staircaseProblem.py)
 - [x] [32. LRU Cache *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/32.lruCache.py)
