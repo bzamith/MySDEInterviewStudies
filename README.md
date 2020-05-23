@@ -50,6 +50,9 @@
 - [x] [37. Rotting Oranges](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/37.rottingOranges.py)
 - [x] [38. Autocomplete](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/38.autocomplete.py) (Pending: Study Tries)
 - [x] [39. K-Closest Points to Origin](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/39.kClosestPointsOrigin.py)
+- [x] [40. Continuous Median *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/40.continuousMedian.py)
+- [x] [41. Longest Combined Word *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/41.longestWord.py)
+- [x] [42. Count Island Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/42.countIslands.py)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
@@ -66,7 +69,6 @@
 - [ ] Rotate Array
 - [ ] Set Matrix Zeros
 - [ ] Integer to English Words *
-- [ ] Count Island Problem
 - [ ] Product of Array Except Self
 - [ ] Search Suggestions System
 - [ ] Copy List with Random Pointer
@@ -94,6 +96,5 @@
 - [ ] Word Distance *
 - [ ] Re-Space *
 - [ ] Shortest Supersequence *
-- [ ] Continuous Median *
 - [ ] Word Transformer *
 - [ ] Multi Search *
