@@ -24,7 +24,7 @@
 - [x] [11. Find the nth Element from End in a Linked List](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/11.nthFromEndLinkedList.py)
 - [x] [12. Find if a Binary Tree is BST](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/12.isBST.py)
 - [x] [13. Find the Lowest Common Ancestor in a Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/13.lca.py)
-- [x] [14. Find the Maximum Sub Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/14.maxSumSubArray.py)
+- [x] [14. Find the Maximum Sub Array *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/14.maxSumSubArray.py)
 - [x] [15. Find the Longest Consecutive Char](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/15.longestConsecutiveChar.py)
 - [x] [16. Reverse Array in-place](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/16.reverseArrayInPlace.py)
 - [x] [17. Find Circle in Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/17.findCircleArray.py)
@@ -42,6 +42,9 @@
 - [x] [29. Phone Number Mnemonics](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/29.phoneNumberMnemonics.py)
 - [x] [30. Count the Number of Ways to Decode a Message ](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/30.waysDecode.py)
 - [x] [31. Recursive Staircase Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/31.staircaseProblem.py)
+- [x] [32. LRU Cache *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/32.lruCache.py)
+- [x] [33. Min Stack](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/33.minStack.py)
+- [x] [34. K Smallest Elements in Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/34.kSmallest.py)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
@@ -54,12 +57,11 @@
 - [ ] Largest Rectangle in a Histogram
 - [ ] Reverse Integer
 - [ ] Merge Two Sorted Lists
-- [ ] Pattern Matching
+- [ ] Pattern Matching *
 - [ ] Maximum Depth Binary Tree
 - [ ] Rotate Array
 - [ ] Set Matrix Zeros
-- [ ] K Largest Elements in Array
-- [ ] Integer to English Words
+- [ ] Integer to English Words *
 - [ ] Count Island Problem
 - [ ] Product of Array Except Self
 - [ ] Rotting Oranges
@@ -67,9 +69,7 @@
 - [ ] Copy List with Random Pointer
 - [ ] Critical Routers
 - [ ] Median of Two Sorted Arrays
-- [ ] LRU Cache
-- [ ] Min Stack
-- [ ] Design Tic-Tac-Toe
+- [ ] Design Tic-Tac-Toe *
 - [ ] Pacific Atlantic Water Flow
 - [ ] Reorganize String
 - [ ] Restore Ip Address
@@ -82,17 +82,19 @@
 - [ ] Minimum Path Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Word Ladder
-- [ ] Word Frequencies
-- [ ] Living People
-- [ ] Missing Number
-- [ ] Letters and Numbers
-- [ ] Count of 2s
-- [ ] Baby Names
-- [ ] Majority Element
-- [ ] Word Distance
-- [ ] Re-Space
-- [ ] Smallest K
-- [ ] Shortest Supersequence
-- [ ] Missing Two
-- [ ] Continuous Median
-- [ ] Word Transformer
+- [ ] Word Frequencies *
+- [ ] Intersection of Lines *
+- [ ] Smallest Difference *
+- [ ] Living People *
+- [ ] Missing Number *
+- [ ] Letters and Numbers *
+- [ ] Count of 2s *
+- [ ] Baby Names *
+- [ ] Majority Element *
+- [ ] Word Distance *
+- [ ] Re-Space *
+- [ ] Smallest K *
+- [ ] Shortest Supersequence *
+- [ ] Missing Two *
+- [ ] Continuous Median *
+- [ ] Word Transformer *
