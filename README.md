@@ -82,7 +82,6 @@
 - [ ] Minimum Path Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Word Ladder
-- [ ] Word Frequencies *
 - [ ] Intersection of Lines *
 - [ ] Smallest Difference *
 - [ ] Living People *
