@@ -1,3 +1,28 @@
+# Source: https://www.udemy.com/course/11-essential-coding-interview-questions/
+
+# Problem: "Validate Parenthesis in a String"
+
+# Example: 
+#  If a parenthesis was opened, the corresponding parenthesis must be closed
+#  in the correct order
+
+# Questions:
+# 1. Are there duplicates? No
+# 2. Do they have the same size? No
+
+# Brute-force solution:
+# Check each pair (O(N*M))
+
+# Approach:
+# I could use a hash map to store elements from one array and iterate over the
+# other array, searching in the hash map. This could be a good approach if the 
+# arrays weren't already sorted. Since they are, I can have space complexity O(1)
+# by using two pointers strategy
+
+# Complexity:
+# O(max(N,M)) time
+# O(1) space
+
 import queue
 
 def validateParenthesisBestApproach(string):
