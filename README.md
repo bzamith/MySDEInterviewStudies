@@ -12,7 +12,7 @@
 
 ### Most Common Questions
 - [x] [01. Find 2 Integers in the Array that Multiply to a Given Number *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/01.findIntegersMultiply.py)
-- [x] [02. Find 2 Integers in the Array that Multiply to a Given Number](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/02.find3IntegersMultiply.py)
+- [x] [02. Find 3 Integers in the Array that Multiply to a Given Number](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/02.find3IntegersMultiply.py)
 - [x] [03. Find the Most Frequent Element in the Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/03.mostFrequentElement.py)
 - [x] [04. Find the Common Elements Between Two Sorted Arrays](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/04.commonElements.py)
 - [x] [05. Check if One Array is a Rotation of the Another](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/05.isRotation.py)
