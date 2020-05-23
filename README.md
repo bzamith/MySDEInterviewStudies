@@ -44,7 +44,7 @@
 - [x] [31. Recursive Staircase Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/31.staircaseProblem.py)
 - [x] [32. LRU Cache *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/32.lruCache.py)
 - [x] [33. Min Stack](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/33.minStack.py)
-- [x] [34. K Smallest Elements in Array](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/34.kSmallest.py)
+- [x] [34. K Smallest Elements in Array *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/34.kSmallest.py) (Pending: Study Selection Rank Algorithm)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
@@ -92,7 +92,6 @@
 - [ ] Majority Element *
 - [ ] Word Distance *
 - [ ] Re-Space *
-- [ ] Smallest K *
 - [ ] Shortest Supersequence *
 - [ ] Missing Two *
 - [ ] Continuous Median *
