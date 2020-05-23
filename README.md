@@ -45,11 +45,15 @@
 - [x] [32. LRU Cache *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/32.lruCache.py)
 - [x] [33. Min Stack](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/33.minStack.py)
 - [x] [34. K Smallest Elements in Array *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/34.kSmallest.py) (Pending: Study Selection Rank Algorithm)
+- [x] [35. Word Ladder *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/35.wordLadder.py)
+- [x] [36. Missing Two *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/36.missingTwo.py)
+- [x] [37. Rotting Oranges](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/37.rottingOranges.py)
+- [x] [38. Autocomplete](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/38.autocomplete.py) (Pending: Study Tries)
+- [x] [39. K-Closest Points to Origin](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/39.kClosestPointsOrigin.py)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
 - [ ] Tower Hopper Problem
-- [ ] K-Closest Points to Origin
 - [ ] Find Sets of Numbers that Add Up To X
 - [ ] Implement a Queue with a Stack
 - [ ] Find the Intersection Between Arrays
@@ -64,7 +68,6 @@
 - [ ] Integer to English Words *
 - [ ] Count Island Problem
 - [ ] Product of Array Except Self
-- [ ] Rotting Oranges
 - [ ] Search Suggestions System
 - [ ] Copy List with Random Pointer
 - [ ] Critical Routers
@@ -81,11 +84,9 @@
 - [ ] Combination Sum
 - [ ] Minimum Path Sum
 - [ ] Best Time to Buy and Sell Stock
-- [ ] Word Ladder
 - [ ] Intersection of Lines *
 - [ ] Smallest Difference *
 - [ ] Living People *
-- [ ] Missing Number *
 - [ ] Letters and Numbers *
 - [ ] Count of 2s *
 - [ ] Baby Names *
@@ -93,6 +94,6 @@
 - [ ] Word Distance *
 - [ ] Re-Space *
 - [ ] Shortest Supersequence *
-- [ ] Missing Two *
 - [ ] Continuous Median *
 - [ ] Word Transformer *
+- [ ] Multi Search *
