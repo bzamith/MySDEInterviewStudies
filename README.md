@@ -53,6 +53,7 @@
 - [x] [40. Continuous Median *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/40.continuousMedian.py)
 - [x] [41. Longest Combined Word *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/41.longestWord.py)
 - [x] [42. Count Island Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/42.countIslands.py)
+- [x] [43. Living People *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/43.livingPeople.py)
 - [ ] Find the Longest Common Subsequence
 - [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
@@ -88,7 +89,6 @@
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Intersection of Lines *
 - [ ] Smallest Difference *
-- [ ] Living People *
 - [ ] Letters and Numbers *
 - [ ] Count of 2s *
 - [ ] Baby Names *
