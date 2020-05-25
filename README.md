@@ -68,6 +68,7 @@
 - [x] [55. Integer to English Words *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/55.integerToEnglish.py)
 - [x] [56. Implement a Queue with a Stack](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/56.queueWithStack.py)
 - [x] [57. Median of Two Sorted Arrays](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/57.medianTwoSortedArrays.py)
+- [x] [58. K Digits](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/58.kDigits.py)
 
 
 - [ ] Tower Hopper Problem
