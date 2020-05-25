@@ -57,22 +57,22 @@
 - [x] [44. Serialize and Deserialize Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/44.livingPeople.py)
 - [x] [45. Best Time to Buy and Sell Stock](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/45.bestTimeStock.py)
 - [x] [46. Knapsack Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/46.knapsackProblem.py)
-- [ ] Find the Longest Common Subsequence
-- [ ] Count Negative Integers in Matrix
+- [x] [47. Merge Two Sorted Linked Lists](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/47.mergeTwoSortedLinkedLists.py)
+- [x] [48. Minimum Depth Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/48.minDepthBinaryTree.py)
+- [x] [49. Largest Square of 1's in a Matrix](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/49.largestSquareOnes.py)
+- [x] [50. Set Matrix Zeros](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/50.setMatrixZeros.py)
+- [x] [51. Largest Rectangle in a Histogram *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/51.rectangleHistogram.py)
+- [x] [52. Product of Array Except Self](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/52.productExceptSelf.py)
+- [x] [53. Find the Longest Common Subsequence](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/53.longestCommonSubsequence.py)
+
 - [ ] Tower Hopper Problem
 - [ ] Find Sets of Numbers that Add Up To X
 - [ ] Implement a Queue with a Stack
 - [ ] Find the Intersection Between Arrays
-- [ ] Largest Square of 1's in a Matrix
-- [ ] Largest Rectangle in a Histogram
 - [ ] Reverse Integer
-- [ ] Merge Two Sorted Lists
 - [ ] Pattern Matching *
-- [ ] Maximum Depth Binary Tree
 - [ ] Rotate Array
-- [ ] Set Matrix Zeros
 - [ ] Integer to English Words *
-- [ ] Product of Array Except Self
 - [ ] Search Suggestions System
 - [ ] Copy List with Random Pointer
 - [ ] Critical Routers
