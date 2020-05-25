@@ -54,8 +54,10 @@
 - [x] [41. Longest Combined Word *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/41.longestWord.py)
 - [x] [42. Count Island Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/42.countIslands.py)
 - [x] [43. Living People *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/43.livingPeople.py)
+- [x] [44. Serialize and Deserialize Binary Tree](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/44.livingPeople.py)
+- [x] [45. Best Time to Buy and Sell Stock](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/45.bestTimeStock.py)
+- [x] [46. Knapsack Problem](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/46.knapsackProblem.py)
 - [ ] Find the Longest Common Subsequence
-- [ ] Knapsack Problem
 - [ ] Count Negative Integers in Matrix
 - [ ] Tower Hopper Problem
 - [ ] Find Sets of Numbers that Add Up To X
@@ -79,14 +81,12 @@
 - [ ] Pacific Atlantic Water Flow
 - [ ] Reorganize String
 - [ ] Restore Ip Address
-- [ ] Serialize and Deserialize Binary Tree
 - [ ] Course Schedule
 - [ ] Longest Palindromic Substring
 - [ ] String to Integer (atoi)
 - [ ] Valid Sudoku
 - [ ] Combination Sum
 - [ ] Minimum Path Sum
-- [ ] Best Time to Buy and Sell Stock
 - [ ] Intersection of Lines *
 - [ ] Smallest Difference *
 - [ ] Letters and Numbers *
