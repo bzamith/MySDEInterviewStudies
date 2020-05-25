@@ -64,21 +64,22 @@
 - [x] [51. Largest Rectangle in a Histogram *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/51.rectangleHistogram.py)
 - [x] [52. Product of Array Except Self](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/52.productExceptSelf.py)
 - [x] [53. Find the Longest Common Subsequence](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/53.longestCommonSubsequence.py)
+- [x] [54. Pacific Atlantic Water Flow](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/54.atlanticPacific.py)
+- [x] [55. Integer to English Words *](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/55.integerToEnglish.py)
+- [x] [56. Implement a Queue with a Stack](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/56.queueWithStack.py)
+- [x] [57. Median of Two Sorted Arrays](https://github.com/bzamith/CodingInterviewQuestions/blob/master/MostCommonQuestions/57.medianTwoSortedArrays.py)
+
 
 - [ ] Tower Hopper Problem
 - [ ] Find Sets of Numbers that Add Up To X
-- [ ] Implement a Queue with a Stack
 - [ ] Find the Intersection Between Arrays
 - [ ] Reverse Integer
 - [ ] Pattern Matching *
 - [ ] Rotate Array
-- [ ] Integer to English Words *
 - [ ] Search Suggestions System
 - [ ] Copy List with Random Pointer
 - [ ] Critical Routers
-- [ ] Median of Two Sorted Arrays
 - [ ] Design Tic-Tac-Toe *
-- [ ] Pacific Atlantic Water Flow
 - [ ] Reorganize String
 - [ ] Restore Ip Address
 - [ ] Course Schedule
@@ -88,7 +89,6 @@
 - [ ] Combination Sum
 - [ ] Minimum Path Sum
 - [ ] Intersection of Lines *
-- [ ] Smallest Difference *
 - [ ] Letters and Numbers *
 - [ ] Count of 2s *
 - [ ] Baby Names *
