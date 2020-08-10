@@ -1,4 +1,4 @@
-## Coding Interview Questions
+## SDE Coding and Design Interview Questions
 
 ### Sources
 - [11 Essential Coding Interview Questions - Online Course](https://www.udemy.com/course/11-essential-coding-interview-questions/)
