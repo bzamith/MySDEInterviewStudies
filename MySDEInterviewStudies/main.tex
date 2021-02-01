@@ -289,7 +289,7 @@ public void postorderTraversal(TreeNode root) {
         \item Example:
         \begin{lstlisting}[style=CStyle]
 public void levelorderTraversal(TreeNode root) {
-    if(root != null) {
+    if(root == null) {
         return;
     }
     Queue<TreeNode> queue = new LinkedList<>();
@@ -325,9 +325,9 @@ public void levelorderTraversal(TreeNode root) {
     \begin{itemize}
     \item $O(log(N))$
         \item It is a divide and conquer algorithm. It divides a large array into two smaller sub-arrays and the recursively or iteratively operate the subarrays. But instead of operating on both subarrays, it discards one subarray and continues on the other one. Needs to be sorted\footnote{\url{https://www.techiedelight.com/binary-search/}}.
-        \item Case 1: if target == A[mid], return mid
-        \item Case 2: if target < A[mid], right = mid - 1
-        \item Case 3: if target > A[mid], left = mid + 1
+        \item Case 1: if $target == A[mid]$, return mid
+        \item Case 2: if $target < A[mid]$, right = mid - 1
+        \item Case 3: if $target > A[mid]$, left = mid + 1
         \item Iterative solution
         \begin{lstlisting}[style=CStyle]
 public int binarySearch(int[] A, int x) {
@@ -1215,7 +1215,7 @@ public class Foo {
 \subsection{Coupling and Cohesion}
 \begin{itemize}
     \item Coupling: Degree of interdependence between software modules
-    \item Degree of which the elements of a module belong together
+    \item Cohesion: Degree of which the elements of a module belong together
     \item Desirable: Less coupling, more cohesion
 \end{itemize}
 
@@ -1297,6 +1297,3 @@ Or you can go with a NoSQL database. It does not support joins and might structu
 \bibliography{lib}
 
 \end{document}
-
-
-
